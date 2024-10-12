@@ -12,6 +12,13 @@ I'm a cybersecurity specialist and ethical hacker with experience in penetration
 - system security
 - Network Security
 
+- ## 🧰 Tools
+![Nessus](https://img.shields.io/badge/Nessus-blue?style=for-the-badge&logo=tenable&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-purple?style=for-the-badge&logo=snort&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-green?style=for-the-badge&logo=metasploit&logoColor=white)
+!
 ## 🚀 Projects
 - **[Phishing Awareness Campaign](link-to-repo):** A comprehensive project to raise awareness about phishing, including a training module and examples.
 - **[Network Intrusion Detection System (NIDS)](link-to-repo):** A network-based IDS using Snort to detect suspicious activities.
