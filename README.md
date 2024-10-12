@@ -13,6 +13,7 @@ I'm a cybersecurity specialist and ethical hacker with experience in penetration
 ## 🚀 Projects
 - **[Phishing Awareness Campaign](link-to-repo):** A comprehensive project to raise awareness about phishing, including a training module and examples.
 - **[Network Intrusion Detection System (NIDS)](link-to-repo):** A network-based IDS using Snort to detect suspicious activities.
+- **[Caesars Cipher Encryption with python](link-to-repo):** A Caesars encryption using python programming. This encryption is done by shifting letters to encrypt and same to decrypt
 
 ## 📫 Contact
 - Email: [cyprianogbolu@gmail.com](mailto:cyprianogbolu@gmail.com)
