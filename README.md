@@ -3,11 +3,13 @@
 I'm a cybersecurity specialist and ethical hacker with experience in penetration testing, Windows hardening, Nessus scanning, and more. I’m passionate about securing digital environments and building security-focused projects.
 
 ## 🛠 Skills
-- Penetration Testing (Nessus, Burp Suite)
+- Penetration Testing (Nessus,Nmap,metasploit,wireshark,Burp Suite)
 - Vulnerability Analysis
 - Python for Automation and Security
 - Data Recovery
 - Digital Forensics
+- Application security
+- system security
 - Network Security
 
 ## 🚀 Projects
