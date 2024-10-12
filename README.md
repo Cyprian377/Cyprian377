@@ -1,11 +1,11 @@
 # Hi, I'm Cyprian 👋
 
 I'm a cybersecurity specialist and ethical hacker with experience in penetration testing, Windows hardening, Nessus scanning, and more. I’m passionate about securing digital environments and building security-focused projects.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprian-ogbolu-5128792b7)
 
 <a href="https://www.linkedin.com/in/cyprian-ogbolu-5128792b7">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-
 
 ## 🛠 Skills
 - Penetration Testing (Nessus,Nmap,metasploit,wireshark,Burp Suite)
