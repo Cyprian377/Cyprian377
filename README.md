@@ -18,7 +18,11 @@ I'm a cybersecurity specialist and ethical hacker with experience in penetration
 ![Snort](https://img.shields.io/badge/Snort-purple?style=for-the-badge&logo=snort&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-green?style=for-the-badge&logo=metasploit&logoColor=white)
-!
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+
 ## 🚀 Projects
 - **[Phishing Awareness Campaign](link-to-repo):** A comprehensive project to raise awareness about phishing, including a training module and examples.
 - **[Network Intrusion Detection System (NIDS)](link-to-repo):** A network-based IDS using Snort to detect suspicious activities.
