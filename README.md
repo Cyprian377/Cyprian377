@@ -48,7 +48,10 @@ I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passio
 ### 🚀 Projects
 - **[Phishing Awareness Campaign](link-to-repo):** A comprehensive project to raise awareness about phishing, including a training module and examples.
 - **[Network Intrusion Detection System (NIDS)](link-to-repo):** A network-based IDS using Snort to detect suspicious activities.
-- **[Caesars Cipher Encryption with python](link-to-repo):** A Caesars encryption using python programming. This encryption is done by shifting letters to encrypt and same to decrypt
+- **[Caesars Cipher Encryption with python](Github.com/Cyprian377/PRODIGY_CS_01):** A Caesars encryption using python programming. This encryption is done by shifting letters to encrypt and same to decrypt.
+- **[Password Checker with python](Github.com/cyprian377/PRODIGY_CS_03):** Checks for passwords strength.
+- **[Simple Keylogger](Github.cim/cyprian377/PRODIGY_CS_04):**
+- **[Network Packet Analyzer](Github.com/cyprian/PRODIGY_CS_05):**
 
 ## Connect with me:
 
