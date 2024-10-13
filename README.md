@@ -45,12 +45,7 @@ I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passio
 ![TestDisk](https://img.shields.io/badge/TestDisk-333?style=flat-square&logoColor=white)
 ![dd](https://img.shields.io/badge/dd-333?style=flat-square&logo=linux&logoColor=white)
 
-### Other Tools
-![Immunity Debugger](https://img.shields.io/badge/Immunity_Debugger-333?style=flat-square&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-333?style=flat-square&logoColor=white)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-333?style=flat-square&logoColor=white)
-
-## 🚀 Projects
+### 🚀 Projects
 - **[Phishing Awareness Campaign](link-to-repo):** A comprehensive project to raise awareness about phishing, including a training module and examples.
 - **[Network Intrusion Detection System (NIDS)](link-to-repo):** A network-based IDS using Snort to detect suspicious activities.
 - **[Caesars Cipher Encryption with python](link-to-repo):** A Caesars encryption using python programming. This encryption is done by shifting letters to encrypt and same to decrypt
