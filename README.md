@@ -17,15 +17,38 @@ I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passio
 - system security
 - Network Security
 
-- ## 🧰 Tools
-![Nessus](https://img.shields.io/badge/Nessus-blue?style=for-the-badge&logo=tenable&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-purple?style=for-the-badge&logo=snort&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-green?style=for-the-badge&logo=metasploit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+-## Tools I Use
 
+### Penetration Testing & Security Tools
+![Metasploit](https://img.shields.io/badge/Metasploit-0571B6?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7A00?style=flat-square&logo=burpsuite&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-2496ED?style=flat-square&logo=tenable&logoColor=white)
+![Snort](https://img.shields.io/badge/Snort-CC6699?style=flat-square&logo=snort&logoColor=white)
+
+### Operating Systems & Virtualization
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-0C9DAA?style=flat-square&logo=linux&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-00A4EF?style=flat-square&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=database&logoColor=white)
+
+### Forensics & Data Recovery
+![Autopsy](https://img.shields.io/badge/Autopsy-333?style=flat-square&logoColor=white)
+![TestDisk](https://img.shields.io/badge/TestDisk-333?style=flat-square&logoColor=white)
+![dd](https://img.shields.io/badge/dd-333?style=flat-square&logo=linux&logoColor=white)
+
+### Other Tools
+![Immunity Debugger](https://img.shields.io/badge/Immunity_Debugger-333?style=flat-square&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-333?style=flat-square&logoColor=white)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-333?style=flat-square&logoColor=white)
 
 ## 🚀 Projects
 - **[Phishing Awareness Campaign](link-to-repo):** A comprehensive project to raise awareness about phishing, including a training module and examples.
