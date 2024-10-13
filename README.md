@@ -5,7 +5,7 @@ I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprian-ogbolu-5128792b7)
 
-[![X](https://img.shields.io/badge/X-1C1C1C?style=flat-square&logo=x)](https://twitter.com/cyprian377)
+[![](https://img.shields.io/badge/X-1C1C1C?style=flat-square&logo=x)](https://twitter.com/cyprian377)
 
 ## 🛠 Skills
 - Penetration Testing (Nessus,Nmap,metasploit,wireshark,Burp Suite)
