@@ -1,6 +1,6 @@
-# 😎Hey there nice to see you.
+# 😎Hey there nice to see you.I'm Cyprian!
 Welcome to my page!
-I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passionate about securing digital environments.
+I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passionate about securing digital environments.Here are my cybersecurity projects that demonstrate my skills and experience in various skills
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprian-ogbolu-5128792b7)
@@ -32,6 +32,9 @@ I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passio
 - **[Network Intrusion Detection System (NIDS)](link-to-repo):** A network-based IDS using Snort to detect suspicious activities.
 - **[Caesars Cipher Encryption with python](link-to-repo):** A Caesars encryption using python programming. This encryption is done by shifting letters to encrypt and same to decrypt
 
-## 📫 Contact
-- Email: [cyprianogbolu@gmail.com](mailto:cyprianogbolu@gmail.com)
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/cyprian-ogbolu-5128792b7)
+## Connect with me:
+-## Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/your_github_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_username)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://twitter.com/cyprian377)
