@@ -51,7 +51,7 @@ I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passio
 - **[Caesars Cipher Encryption with python](https://github.com/Cyprian377/PRODIGY_CS_01):** A Caesars encryption using python programming. This encryption is done by shifting letters to encrypt and same to decrypt.
 - **[Password Checker with python](https://github.com/Cyprian377/PRODIGY_CS_03):** Checks for passwords strength.
 - **[Simple Keylogger](https://github.com/cyprian377/PRODIGY_CS_04):**
-- **[Network Packet Analyzer](https://github.com/cyprian/PRODIGY_CS_05):**
+- **[Network Packet Analyzer](https://github.com/cyprian377/PRODIGY_CS_05):**
 
 ## Connect with me:
 
