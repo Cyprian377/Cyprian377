@@ -9,6 +9,7 @@ I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passio
 
 [![X Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social&label=X)](https://twitter.com/your_twitter_handle)
 
+[![Follow me on X](https://img.shields.io/badge/X-Follow%20me-1DA1F2?style=social)](https://twitter.com/your_twitter_handle)
 
 
 ## 🛠 Skills
