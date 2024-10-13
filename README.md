@@ -11,6 +11,7 @@ I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passio
 
 [![Follow me on X](https://img.shields.io/badge/X-Follow%20me-1DA1F2?style=social)](https://twitter.com/your_twitter_handle)
 
+[![X](https://img.shields.io/badge/X-1C1C1C?style=flat-square&logo=x)](https://twitter.com/your_twitter_handle)
 
 ## 🛠 Skills
 - Penetration Testing (Nessus,Nmap,metasploit,wireshark,Burp Suite)
