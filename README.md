@@ -33,9 +33,8 @@ I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passio
 - **[Caesars Cipher Encryption with python](link-to-repo):** A Caesars encryption using python programming. This encryption is done by shifting letters to encrypt and same to decrypt
 
 ## Connect with me:
--## Connect with me
 
-[![GitHub](https://img.shields.io/badge/-000?style=for-the-badge&logo=github)](https://github.com/your_github_username)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your_linkedin_username)
-[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your_twitter_handle)
-[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_instagram_handle)
+[![GitHub](https://img.shields.io/badge/-000?style=for-the-badge&logo=github)](https://github.com/cyprian377)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprianogbolu)
+[![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/cyprian377)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/officiallycaveman)
