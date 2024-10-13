@@ -7,7 +7,7 @@ I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passio
 
 [![](https://img.shields.io/badge/X-1C1C1C?style=flat-square&logo=x)](https://twitter.com/cyprian377)
 
-## 🛠 Skills
+## 🛠Techniacl Skills
 - Penetration Testing (Nessus,Nmap,metasploit,wireshark,Burp Suite)
 - Vulnerability Analysis
 - Python for Automation and Security
@@ -35,6 +35,22 @@ I'm a cybersecurity Analyst and ethical hacker.From Nigeria🇳🇬.I’m passio
 ## Connect with me:
 
 [![GitHub](https://img.shields.io/badge/-000?style=for-the-badge&logo=github)](https://github.com/cyprian377)
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprianogbolu)
+[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprian-ogbolu-5128792b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/cyprian377)
 [![Instagram](https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/officiallycaveman)
+
+
+## Certifications:
+
+## Experience
+**Cybersecurity Intern** at ProdigyInfoTech
+- Developed a Caesar cipher encryption algorithm in Python.
+- Created a network packet analyzer for monitoring traffic.
+- Created a Keylogger for monitoring key strokes.
+- Created a password checker.
+- **Cybersecurity Intern** at CodeAlpha
+- Developed a Trainung module on Phishing awareness
+- Created a Network Intrution detection system
+- Created a Basic Network packet Analyzer
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyprian377&show_icons=true&theme=radical)
